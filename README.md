@@ -98,5 +98,8 @@ Pandas inside the function, to work with Pandas instances and APIs.
    
    http://apache-spark-developers-list.1001551.n3.nabble.com/Spark-3-0-preview-release-feature-list-and-major-changes-td28050.html
    
+   # Spark Projects
+   https://spark.apache.org/third-party-projects.html
+   
   
     
